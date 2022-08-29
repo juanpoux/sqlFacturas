@@ -73,6 +73,18 @@
           <AssociatedConnUserName />
           <FullPath>8 GROUP BY SUM COUNT AVG MAX MIN.sql</FullPath>
         </FileNode>
+        <FileNode Name="EJEMPLO DELETE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EJEMPLO DELETE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EJEMPLO UPDATE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EJEMPLO UPDATE.sql</FullPath>
+        </FileNode>
         <FileNode Name="R35+E1+Estudio+de+clientes.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
