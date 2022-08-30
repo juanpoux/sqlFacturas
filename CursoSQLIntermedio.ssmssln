@@ -7,6 +7,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CreacionTienda", "CreacionT
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "GestionTienda", "GestionTienda\GestionTienda.ssmssqlproj", "{3CC87CDE-5597-4868-A2E9-72FD6946632F}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Trabajo Con Varias Tablas", "Trabajo Con Varias Tablas\Trabajo Con Varias Tablas.ssmssqlproj", "{90CBAA3D-BE1C-4F1D-AE7A-B23515FBF827}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -14,7 +16,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{30F169BF-7AAE-459C-8304-6BC294435E79}.Default|Default.ActiveCfg = Default
 		{3CC87CDE-5597-4868-A2E9-72FD6946632F}.Default|Default.ActiveCfg = Default
-		{8A0D9FAD-B1F8-467C-B87B-52E0EF9627E5}.Default|Default.ActiveCfg = Default
+		{EA78D4BF-E8FB-4B87-B1A0-CDB7DC832A05}.Default|Default.ActiveCfg = Default
+		{90CBAA3D-BE1C-4F1D-AE7A-B23515FBF827}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
